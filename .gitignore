@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+/.vs/devtools-node-shared-config/v15
+/.vs/slnx.sqlite
+*.json
+/.vs/config
