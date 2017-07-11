@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": {
     "name": "Thomas Schaumburg"
+  },
+  "dependencies": {
+    "find-parent-dir": "^0.3.0"
   }
 }
