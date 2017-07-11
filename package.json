@@ -1,0 +1,9 @@
+{
+  "name": "devtools-node-shared-config",
+  "version": "0.0.1",
+  "description": "devtools-node-shared-config",
+  "main": "index.js",
+  "author": {
+    "name": "Thomas Schaumburg"
+  }
+}
